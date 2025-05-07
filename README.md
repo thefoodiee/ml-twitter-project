@@ -59,13 +59,3 @@ Follow these simple steps to set up and start working on the project:
    jupyter notebook
    ```
 
-
-
-## 🙏 **Acknowledgments**
-
-This project was inspired by the helpful work of [analyticsvidhya](https://www.analyticsvidhya.com/). 🎩🙌
-
-## 📞 **Contact**
-
-For any queries, suggestions, or virtual high-fives, feel free to reach out at **labrijisaad@gmail.com**. 📬
-
